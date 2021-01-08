@@ -1,4 +1,15 @@
 # Dice roller
-Dice rolling app made for android study jams based on kotlin language 
+-----------------------------------------------------------------------------------------------------------
+> *   ### __Source__
+>
+>   > From official android developer's **Kotlin** guide at *[here](https://developer.android.com/courses/android-basics-kotlin/course "Android course")*.
+-----------------------------------------------------------------------------------------------------------
+> *   ### __motivation__
+>
+>   > Android study jams organised by local DSC chapter.
+-----------------------------------------------------------------------------------------------------------
+> *   ### __Description__ 
+>   > Dice rolling app made for android study jams based on kotlin language under final part of UNIT-1
+>   > | * Main screen | ![Screencapture](/Capture1.PNG)|
+>   > <img align="right" width="200" src="https://raw.githubusercontent.com/kastrahl/Dice_roller/master/Capture1.PNG">
 
-**UNIT 1** - of android study jams 
