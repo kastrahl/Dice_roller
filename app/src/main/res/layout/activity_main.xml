@@ -40,4 +40,14 @@
         app:layout_constraintTop_toBottomOf="@+id/button"
         tools:text="lucky or not" />
 
+    <ImageView
+        android:id="@+id/dice_image"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:contentDescription="@string/dice_image_content_description"
+        app:layout_constraintBottom_toTopOf="@+id/Rollednumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:srcCompat="@drawable/dice_1" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
