@@ -11,7 +11,6 @@
 > *   ### __Description__ 
 >> <br>
 >> <br>
->> <br>
 >> Dice rolling app made for android study jams based on kotlin language under final part of UNIT-1
 >> <p align="center">
 >>       <img width="200" src="https://raw.githubusercontent.com/kastrahl/Dice_roller/master/Capture1.PNG">
