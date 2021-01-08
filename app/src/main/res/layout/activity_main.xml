@@ -10,6 +10,7 @@
         android:id="@+id/Rollednumber"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:gravity="center"
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -26,5 +27,27 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Rollednumber" />
+
+    <TextView
+        android:id="@+id/lucky_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#C6A919"
+        android:textColorHighlight="#E40505"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button"
+        tools:text="lucky or not" />
+
+    <ImageView
+        android:id="@+id/dice_image"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:contentDescription="@string/dice_image_content_description"
+        app:layout_constraintBottom_toTopOf="@+id/Rollednumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:srcCompat="@drawable/dice_1" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
