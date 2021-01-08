@@ -9,6 +9,10 @@
 >   > Android study jams organised by local DSC chapter.
 -----------------------------------------------------------------------------------------------------------
 > *   ### __Description__ 
+>> <br>
+>> <br>
+>> <br>
 >   > Dice rolling app made for android study jams based on kotlin language under final part of UNIT-1
->   > <img align="right" width="200" src="https://raw.githubusercontent.com/kastrahl/Dice_roller/master/Capture1.PNG">
-
+>   > <p align="center">
+>>       <width="200" src="https://raw.githubusercontent.com/kastrahl/Dice_roller/master/Capture1.PNG">
+>>     </p>
